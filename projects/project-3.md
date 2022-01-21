@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/malioresize.png
 title: monkey jump
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-02-20
 labels:
     - Phaser
 We tryed to create an simple game using phaser and modify its game 
