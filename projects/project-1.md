@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/guess.png
+image: images/guessresize.png
 title: Number Guessing Game
 # All dates must be YYYY-MM-DD format!
 date: 2017-09-01
