@@ -3,6 +3,7 @@ layout: project
 type: project
 image: images/guessresize.png
 title: Number Guessing Game
+permalink: projects/guessing
 # All dates must be YYYY-MM-DD format!
 date: 2017-09-01
 labels:
