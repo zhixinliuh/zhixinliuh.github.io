@@ -3,6 +3,7 @@ layout: project
 type: project
 image: images/hotelresize.jpeg
 title: Hotel Checkin
+permalink: projects/hotelCheck
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-01
 labels:
