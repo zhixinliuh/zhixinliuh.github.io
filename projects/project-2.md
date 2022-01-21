@@ -1,25 +1,33 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/hotel.jpeg
 title: Vacay
-permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-10-01
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
----
-
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
-
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+One of our project for high school STEM class was to create an hotel simple checkin system this was part of the code i used to show the name or the room number that is bounded to the room.
+```js
+//created an object that has no data
+var classroom={
+	classnumber:"f103",
+  students:18,
+};
+var userIput= prompt("classnumber or students?");
+var lowercase=userIput.toLowerCase();
+if ((lowercase === "classnumber") || (lowercase === "students")){
+	window.alert(classroom[lowercase]);
+}
+//given 3 more trys to give answers
+else {
+	for (i=1;i<3;i++){
+  var userIput= prompt("classnumber or students?. you have tried " +i + "times");
+	var lowercase=userIput.toLowerCase();
+	if ((lowercase === "classnumber") || (lowercase === "students")){
+  i=3;
+	window.alert(classroom[lowercase]);
+  	}
+	}
+}
+```
