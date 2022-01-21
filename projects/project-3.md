@@ -3,6 +3,7 @@ layout: project
 type: project
 image: images/malioresize.png
 title: monkey jump
+permalink: projects/monkeyjump
 # All dates must be YYYY-MM-DD format!
 date: 2019-02-20
 labels:
