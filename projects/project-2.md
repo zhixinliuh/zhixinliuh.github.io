@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hotel.jpeg
+image: images/hotelresize.jpeg
 title: Hotel Checkin
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-01
