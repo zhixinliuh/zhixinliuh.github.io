@@ -7,6 +7,7 @@ title: Hotel Checkin
 date: 2018-10-01
 labels:
   - Javascript
+--- 
 One of our project for high school STEM class was to create an hotel simple checkin system this was part of the code i used to show the name or the room number that is bounded to the room.
 ```js
 //created an object that has no data
