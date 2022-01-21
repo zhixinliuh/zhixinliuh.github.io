@@ -7,7 +7,7 @@ title: Number Guessing Game
 date: 2017-09-01
 labels:
   - Javascript
-
+---
 Back in highschool builded an simple number guessing game for 2 player in STEM
 one person enter a number between 1-6
 the other person guesses what number they pick. 
