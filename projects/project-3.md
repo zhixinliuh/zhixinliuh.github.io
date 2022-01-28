@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/malioresize.jpg
-title: monkey jump
+title: Monkey Jump
 permalink: projects/monkeyjump
 # All dates must be YYYY-MM-DD format!
 date: 2019-02-20
