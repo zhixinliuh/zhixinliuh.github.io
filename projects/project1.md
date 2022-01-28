@@ -8,6 +8,7 @@ permalink: projects/guessing
 date: 2017-09-01
 labels:
   - Javascript
+summary: Simple number Guessing game for 2 players.
 ---
 Back in highschool builded an simple number guessing game for 2 player in STEM
 one person enter a number between 1-6
