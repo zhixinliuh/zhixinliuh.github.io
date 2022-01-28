@@ -8,6 +8,7 @@ permalink: projects/monkeyjump
 date: 2019-02-20
 labels:
     - Phaser
+summary: Monkey Jumping game developed from using Phaser framework.
 ---    
 Phaser is an game framework that are used for making html games. With the help of phaser making html game was really convenient. To make a html game assets is an really important part, assets are the images in the game. Assets also helps to crate motions on characters.
 With html games, the structure are mostly pieces of images adding up to a whole.
