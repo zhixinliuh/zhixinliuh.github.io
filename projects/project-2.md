@@ -9,7 +9,11 @@ date: 2018-10-01
 labels:
   - Javascript
 --- 
-One of our project for high school STEM class was to create an hotel simple checkin system this was part of the code i used to show the name or the room number that is bounded to the room.
+One of our project for high school STEM class was to create an hotel simple checkin system this was part of the code i used to show the name or the room number that is bounded to the room. As this is an very basic project, This hotel check in program developed me in more connective thinking on how the button and helps me understand the way websites function. Prompt from user was really interesting interaction with the user using the program.
+
+This is also where I learn about the user interface, in which the user and a computer system interact. I found the user interface to be a very important part of a program that we could get values from and use the values given to determine the next step of the process for the user. I thought it's important because the data that the user interface brings us help improve the program as well as the convenience for the user.
+
+
 ```js
 //created an object that has no data
 var classroom={
