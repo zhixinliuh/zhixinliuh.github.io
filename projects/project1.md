@@ -14,6 +14,8 @@ one person enter a number between 1-6
 the other person guesses what number they pick. 
 guess the right number wins.
 
+While this might be a simple program code, it starts simple for me to understand how an software works. Simple game like this became an function, which lots of function works together forming a function community. Will then become an software.
+
 This is the code and jsfiddle site link
 "https://jsfiddle.net/zhixinli0904/pmyrh817/2/"
 ```js
