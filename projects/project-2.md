@@ -8,6 +8,7 @@ permalink: projects/hotelCheck
 date: 2018-10-01
 labels:
   - Javascript
+summary: Hotel room checkIn stimulate the room check in process hotel system. 
 --- 
 One of our project for high school STEM class was to create an hotel simple checkin system this was part of the code i used to show the name or the room number that is bounded to the room. As this is an very basic project, This hotel check in program developed me in more connective thinking on how the button and helps me understand the way websites function. Prompt from user was really interesting interaction with the user using the program.
 
