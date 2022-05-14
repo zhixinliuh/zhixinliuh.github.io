@@ -18,4 +18,6 @@ labels:
 summary: Created Web Application that provides UH Manoa students recommendations based of other students on locations of Oahu for better experiences.
 ---    
 <img class="ui image" src="/images/wwp1.png">
-Walking With Pele is an Web development project that was created for the Final Project of my Software Engineering class. This was an unique experience for all of us.
+Walking With Pele is an Web development project that was created for the Final Project of my Software Engineering class. This was an unique experience for all of us. This Final project indroduced to us the world of software Engineering. The mind set of constructing the application with Team members are significantly important. Communication with team member are always a priority while working in a group. Consistently working with group for accomadation of goals and solutions to problem you are dealing with.
+
+
