@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/malioresize.jpg
+image: images/wwp1.png
 title: Walking with Pele
-permalink: projects/monkeyjump
+permalink: projects/walking-with-pele
 # All dates must be YYYY-MM-DD format!
 date: 2022-05-13
 labels:
