@@ -2,12 +2,14 @@
 layout: project
 type: project
 image: images/malioresize.jpg
-title: Monkey Jump
+title: Walking with Pele
 permalink: projects/monkeyjump
 # All dates must be YYYY-MM-DD format!
-date: 2019-02-20
+date: 2022-05-13
 labels:
-    - Phaser
+    - Java Script
+    - Meteor
+    - React
 summary: Monkey Jumping game developed from using Phaser framework.
 ---    
 Phaser is an game framework that are used for making html games. With the help of phaser making html game was really convenient. To make a html game assets is an really important part, assets are the images in the game. Assets also helps to crate motions on characters.
